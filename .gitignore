@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.DS_Store
+
+# Virtual environments
+.venv
+
+# Local artifacts
+faiss_index/
+.env
+*.pdf
+*.csv
+*.xlsx
+.env
+*.pdf
+*.csv
+*.xlsx
+*.ipynb
