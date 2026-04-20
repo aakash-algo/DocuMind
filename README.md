@@ -1,4 +1,4 @@
-# DocuMind Multi-Format RAG & Symbolic Reasoning Agent 
+# DocuMind: Multi-Format RAG & Symbolic Reasoning Agent 
 
 ## What It Does
 
