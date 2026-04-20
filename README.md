@@ -1,6 +1,4 @@
-# LangGraph RAG Studio
-
-A resume-ready LangGraph project that combines retrieval-augmented generation, graph-based routing, tool use, and a polished Streamlit inspection UI.
+# DocuMind
 
 ## What It Does
 
