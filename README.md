@@ -101,18 +101,4 @@ Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
-
-## Resume-Ready Talking Points
-
-- Built a multi-stage LangGraph agent that routes user requests across retrieval, tool-calling, and conversational paths.
-- Implemented true recursive chunking for unstructured documents and table-aware batching for structured corpora with chunk metadata for source, section, and file type tracking.
-- Implemented retrieval query rewriting, document relevance inspection, and answer-grounding checks to reduce unsupported responses.
-- Developed a polished Streamlit observability dashboard showing graph decisions, retrieval scores, source-level evidence, and rendered math output.
-- Integrated FAISS-based semantic search with cited answer generation and symbolic math tool calling over a domain-specific AI/ML knowledge base.
-
-## Next Upgrades
-
-- Add conversation memory with checkpointing so threads can resume across sessions.
-- Add document upload and on-demand re-indexing from the UI.
-- Add evaluation scripts for retrieval precision and grounded-answer quality.
 - Add unit tests for each graph branch and failure mode.
